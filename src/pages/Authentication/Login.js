@@ -20,7 +20,7 @@ import withRouter from "../../components/Common/withRouter";
 class Login extends Component {
   constructor(props) {
     super(props);
-    this.state = { username: "admin@themesdesign.in", password: "123456" };
+    this.state = { username: "ashishpanchal199@gmail.com", password: "123456" };
     this.handleSubmit = this.handleSubmit.bind(this);
   }
 
